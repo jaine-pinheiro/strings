@@ -22,10 +22,10 @@ e seja capaz de gerar os outputs dos desafios abaixo.
 O texto deve ser parametrizável e se quiser, pode utilizar um texto de input de sua preferência.
 
 ### Parte 1 (Básico) - limite 40 caracteres
-Você deve seguir o exemplo de output output_parte1.txt, onde basta o texto possuir, no máximo, 40 caracteres por linha. As palavras não podem ser quebradas no meio.
+Você deve seguir o exemplo de output [output_parte1.txt](https://github.com/jaine-pinheiro/strings/blob/master/output_parte1.txt), onde basta o texto possuir, no máximo, 40 caracteres por linha. As palavras não podem ser quebradas no meio.
 
 ### Parte 2 (Intermediário) - limite 40 caracteres
-O exemplo de output está output-parte2.txt, onde além de o arquivo possuir, no máximo, 40 caracteres por linha, o texto deve estar **justificado**.
+O exemplo de output está [output-parte2.txt](https://github.com/jaine-pinheiro/strings/blob/master/output-parte2.txt), onde além de o arquivo possuir, no máximo, 40 caracteres por linha, o texto deve estar **justificado**.
 
 ### Extras
 
